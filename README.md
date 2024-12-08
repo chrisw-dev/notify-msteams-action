@@ -4,7 +4,7 @@ This GitHub action is designed to enable development teams to easily send notifi
 
 This action uses typescript and is built from the [typescript-action](https://github.com/actions/typescript-action) baseline.
 
-This fork is for testing potential changes to the release process.
+This fork is for testing potential changes to the release process. Adding a fix: to trigger release?
 
 ## Table of Contents
 
